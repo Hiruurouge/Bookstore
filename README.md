@@ -1,4 +1,4 @@
-# bookstorefront
+# book store front
 
 ## Project setup
 ```
@@ -19,6 +19,9 @@ npm run build
 ```
 npm run lint
 ```
+=
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#bookstore Backend
+Install springboot pulgin in Eclipes
+import the project as a Maven
+Run it as a Springboot project
